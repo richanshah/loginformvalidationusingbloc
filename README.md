@@ -1,6 +1,14 @@
 # flutter_responsive_login_ui
 
-A new Flutter project.
+# include: 
+Authentication app using bloc concepts such as :-
+  - BlocProvider
+  - BlocConsumer
+  - BlocListener
+  - BlocBuilder
+  - BlocObserver
+  - BlocEvent
+  - BlocState
 
 ## Getting Started
 
